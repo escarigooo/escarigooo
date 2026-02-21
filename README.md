@@ -9,7 +9,3 @@
 ## Projects
 - **PAP (in progress):** workshop web platform for services and operations
 - **NOTED (FCT):** Flask e-commerce project — <https://github.com/escarigooo/noted>
-
-## Contact
-- **Email:** escarigoandre@gmail.com
-- **Instagram:** <https://www.instagram.com/andreescarigo/>
