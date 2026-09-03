@@ -7,5 +7,5 @@
 - [Course brochure](https://drive.google.com/file/d/16ffQJV4OxzAw1vhBRTiFoFp34T5O8QRg/view)
 
 ## Projects
-- **PAP (in progress):** workshop web platform for service management and operations — [demo.eppenus.pt](https://demo.eppneus.pt/)
+- **PAP (in progress):** workshop web platform for service management and operations.
 - **NOTED (FCT):** Flask e-commerce project — <https://github.com/escarigooo/noted>
