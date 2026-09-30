@@ -1,31 +1,19 @@
 # Hi, I'm André 👋
 
-I'm a junior software developer and a [BSc in Information Systems](https://novaims.unl.pt/en/education/programs/bachelor-s-degrees/information-systems/) student at NOVA IMS.
+Information Systems student at [NOVA IMS](https://novaims.unl.pt/en/education/programs/bachelor-s-degrees/information-systems/), with a Level 4 professional qualification in Computer Programming from [EPAD](https://www.epad.edu.pt/).
 
-- Completed a Level 4 Professional Qualification in Computer Programming at EPAD
-- Completed a 450-hour frontend development internship, contributing to an ASP.NET MVC/Razor web project
-- Building full-stack web applications with Python, Django, Flask, SQL, PostgreSQL and Docker
-- Interested in backend development, APIs, data modelling and the connection between technology, products and business processes
-- I enjoy planning complex projects, documenting decisions and improving solutions through testing and research
+I've worked on web projects across frontend and backend, including an ASP.NET MVC/Razor project during my internship. I enjoy planning systems, documenting decisions and learning how the different parts fit together.
 
-## Selected projects
+<p>
+  <a href="https://novaims.unl.pt/en/">
+    <img src="https://novaims.unl.pt/assets/Default/images/logo.png" alt="NOVA IMS" height="48">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.epad.edu.pt/">
+    <img src="https://www.epad.edu.pt/wordpress/wp-content/uploads/2018/05/06_EPAD_2016_AC_NEG.png" alt="EPAD" height="48">
+  </a>
+</p>
 
-### [Full-Stack Workshop Management Platform](https://github.com/escarigooo/full-stack-workshop-platform)
+### tools
 
-Django and PostgreSQL platform for product catalogue, appointments, checkout, authentication, stock and administrative workflows. Containerised with Docker and validated with automated tests.
-
-### [Mobi4U — Hack the City Mobility Challenge](https://devpost.com/software/mobi4u/)
-
-48-hour team project that transformed historical public-transport data into an explainable reliability dashboard. Awarded second place at Hack the City.
-
-### [`noted;`](https://github.com/escarigooo/noted)
-
-Flask e-commerce learning project with accounts, catalogue, persistent cart, simulated checkout, order management, relational data, automated tests and Docker support.
-
-## Current direction
-
-I'm strengthening my backend and information-systems foundations while learning how technical ideas can be validated, managed and developed into useful, sustainable products.
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/andreescarigo/)
+`Python` · `Django` · `Flask` · `SQL` · `PostgreSQL` · `JavaScript` · `TypeScript` · `ASP.NET MVC` · `Docker`
