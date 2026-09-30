@@ -10,7 +10,11 @@ I've worked on web projects across frontend and backend, including an ASP.NET MV
   </a>
   &nbsp;&nbsp;
   <a href="https://www.epad.edu.pt/">
-    <img src="https://www.epad.edu.pt/wordpress/wp-content/uploads/2018/05/06_EPAD_2016_AC_NEG.png" alt="EPAD" height="48">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/epad-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/epad-light.png">
+      <img src="./assets/epad-light.png" alt="EPAD" height="48">
+    </picture>
   </a>
 </p>
 
