@@ -2,7 +2,7 @@
 
 Information Systems student at [NOVA IMS](https://novaims.unl.pt/en/education/programs/bachelor-s-degrees/information-systems/), with a Level 4 professional qualification in Computer Programming from [EPAD](https://www.epad.edu.pt/).
 
-I've worked on web projects across frontend and backend, including an ASP.NET MVC/Razor project during my internship. I enjoy planning systems, documenting decisions and learning how the different parts fit together.
+I've worked on web projects across frontend and backend, including an ASP.NET MVC/Razor project during my internship at [T_insight](https://www.tinsight.pt/). I enjoy planning systems, documenting decisions and learning how the different parts fit together.
 
 <p>
   <a href="https://novaims.unl.pt/en/">
@@ -18,6 +18,14 @@ I've worked on web projects across frontend and backend, including an ASP.NET MV
       <source media="(prefers-color-scheme: dark)" srcset="./assets/epad-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="./assets/epad-light.png">
       <img src="./assets/epad-light.png" alt="EPAD" height="48">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.tinsight.pt/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/tinsight-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/tinsight-light.png">
+      <img src="./assets/tinsight-light.png" alt="T_insight" height="30">
     </picture>
   </a>
 </p>
